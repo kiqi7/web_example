@@ -1,0 +1,6 @@
+Flask==2.0.3
+Flask-SQLAlchemy==2.5.1
+transformers==4.15.0
+torch==1.10.0
+psycopg2-binary==2.9.3  # or replace with the adapter you use for Google Cloud SQL
+PyMySQL==1.0.2
